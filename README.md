@@ -7,6 +7,7 @@ StudyNotion aims to provide:
 Live At- https://study-notion-edtech-hargunsingh1511.vercel.app/
 
 Frontend: Developed By Hargun Singh
+
 Backend Development and API Integration: Developed By Mrityunjay Pandey
 
 The StudyNotion ed-tech platform consists of three main components: the front end, the back end, and the database. The platform follows a client-server architecture, with the front end serving as the client and the back end and database serving as the server.
